@@ -4,6 +4,8 @@ body {
 }
 
 .coming {
+  position: absolute;
+  top: 80%;
   opacity: 60%;
 }
 .loader {
