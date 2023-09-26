@@ -3,15 +3,14 @@ body {
   color: white;
 }
 
-.coming {
-  position: absolute;
-  top: 80%;
-  opacity: 60%;
+h1 {
+  opacity: 50%;
 }
 .loader {
   position: absolute;
   top: 30%;
   left: 50%;
+
   transform: translate(-50%, -50%);
   perspective: 800px;
 }
