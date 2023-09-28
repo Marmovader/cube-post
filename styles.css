@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  opacity: 50% !important;
+  opacity: 50%;
 }
 .loader {
   position: absolute;
