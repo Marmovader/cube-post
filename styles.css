@@ -1,6 +1,9 @@
 body {
   background-color: #212121;
   color: white;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Mono", monospace;
 }
 
 h1 {
