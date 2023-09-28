@@ -5,7 +5,10 @@ body {
 
 h1 {
   opacity: 50%;
-  color: red;
+}
+
+.main {
+  opacity: 50%;
 }
 .loader {
   position: absolute;
