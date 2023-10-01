@@ -4,8 +4,12 @@ body {
   */
   background-color: black;
   font-family: "Montserrat", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-family: "Roboto", sans-serif;
   font-family: "Roboto Mono", monospace;
+  padding-top: 100px;
+  font-weight: 200;
+  color: grey;
 }
 
 h1 {
@@ -13,9 +17,10 @@ h1 {
   opacity: 30%;
 }
 
+/*CUBO*/
 .loader {
   position: absolute;
-  top: 30%;
+  top: 50%;
   left: 50%;
 
   transform: translate(-50%, -50%);
