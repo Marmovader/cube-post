@@ -18,6 +18,9 @@ h1 {
   padding-top: 150px;
 }
 
+footer {
+  padding-top: 50px;
+}
 /*CUBO*/
 .loader {
   position: absolute;
