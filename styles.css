@@ -15,7 +15,7 @@ body {
 h1 {
   color: white;
   opacity: 30%;
-  padding-top: 170px;
+  padding-top: 210px;
 }
 
 footer {
@@ -24,7 +24,7 @@ footer {
 /*CUBO*/
 .loader {
   position: absolute;
-  top: 55%;
+  top: 45%;
   left: 50%;
 
   transform: translate(-50%, -50%);
