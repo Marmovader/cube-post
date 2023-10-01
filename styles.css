@@ -15,16 +15,16 @@ body {
 h1 {
   color: white;
   opacity: 30%;
-  padding-top: 150px;
+  padding-top: 170px;
 }
 
 footer {
-  padding-top: 50px;
+  padding-top: 150px;
 }
 /*CUBO*/
 .loader {
   position: absolute;
-  top: 15%;
+  top: 55%;
   left: 50%;
 
   transform: translate(-50%, -50%);
