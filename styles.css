@@ -13,11 +13,97 @@ body {
 }
 
 h1 {
-  color: white;
-  opacity: 30%;
-  padding-top: 170px;
+  opacity: 70%;
 }
-
 footer {
   padding-top: 50px;
+}
+
+.seccion-clara {
+  background-color: rgb(13, 13, 13);
+  height: 170px;
+  border-radius: 20px;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.text-decoration-underline {
+  text-underline-offset: 2px;
+}
+
+.servicios-list {
+  list-style-type: none;
+}
+
+.servicios-item {
+  margin-bottom: 10px;
+}
+
+a:link {
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+}
+
+a:active {
+  color: inherit;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+.servicios-item a:hover {
+  text-decoration: underline !important;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(39, 38, 38) !important;
+  transition: all 0.2s;
+}
+
+.dropdown-toggle {
+  opacity: 80%;
+}
+
+.dropdown-item {
+  opacity: 80%;
+}
+
+.dropdown-toggle:hover {
+  opacity: 100%;
+}
+
+.dropdown-item:hover {
+  opacity: 100%;
+}
+
+.tba {
+  font-size: 50px;
+}
+
+.contact-boton {
+  padding: 10px 15px 10px 15px;
+  background-color: grey;
+  color: black;
+  border-radius: 10px;
+}
+
+.contact-boton:hover {
+  background-color: rgb(152, 152, 152);
+  transition: all 0.2s;
 }
