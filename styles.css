@@ -107,3 +107,13 @@ a:visited {
   background-color: rgb(152, 152, 152);
   transition: all 0.2s;
 }
+
+.watermark {
+  font-weight: bold;
+  font-size: 70px;
+  position: fixed;
+  rotate: 35deg;
+  top: 300px;
+  right: 300px;
+  opacity: 50%;
+}
